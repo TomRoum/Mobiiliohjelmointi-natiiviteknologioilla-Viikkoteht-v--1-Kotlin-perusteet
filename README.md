@@ -2,28 +2,29 @@
 
 Simple Android task app built with Kotlin and Jetpack Compose.
 
+**📦 [Download APK (v1.0)](https://github.com/TomRoum/Mobiiliohjelmointi-natiiviteknologioilla-Viikkoteht-v--1-Kotlin-perusteet/releases/tag/v1.0)**
+
 ## Getting Started
 
 1. **Clone the repository**
-
    ```bash
    git clone <repository-url>
    cd MyApplication
    ```
 
 2. **Open in Android Studio**
-   - Open Android Studio
-   - Select "Open an Existing Project"
-   - Navigate to the cloned folder and click OK
+    - Open Android Studio
+    - Select "Open an Existing Project"
+    - Navigate to the cloned folder and click OK
 
 3. **Sync Gradle**
-   - Android Studio will prompt you to sync
-   - Click "Sync Now" or click the elephant icon 🐘 in the toolbar
+    - Android Studio will prompt you to sync
+    - Click "Sync Now" or click the elephant icon 🐘 in the toolbar
 
 4. **Run the app**
-   - Connect an Android device or start an emulator
-   - Click the green play button ▶️
-   - Select your device and click OK
+    - Connect an Android device or start an emulator
+    - Click the green play button ▶️
+    - Select your device and click OK
 
 ## Data Model
 
