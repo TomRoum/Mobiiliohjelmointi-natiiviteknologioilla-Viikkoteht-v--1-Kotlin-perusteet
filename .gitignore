@@ -92,3 +92,4 @@ lint-results.xml
 
 # Kotlin
 .kotlin/
+.idea/
